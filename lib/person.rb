@@ -1,7 +1,6 @@
 class Person 
   
-  def adele_goldberg
-  end
-  def alan_kay
-  end
+ @adele_goldberg = person
+ @alan_kay = person
+
 end
