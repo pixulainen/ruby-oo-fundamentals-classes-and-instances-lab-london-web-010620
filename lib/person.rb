@@ -1,6 +1,5 @@
 class Person 
-  
- @adele_goldberg = person
- @alan_kay = person
 
 end
+alan_kay = Person.new
+adele_goldberg = Person.new
